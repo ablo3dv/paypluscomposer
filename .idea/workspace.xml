@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="988017e7-42d6-4101-84ec-ec05fe647e00" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay-php-gateway.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/cashdeposit/cashdeposit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/checkout.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/checkout/checkout_invoice.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/checkout/store.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/conf.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/customdata.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/dependency_check.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Auth/Basic.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/400.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/401.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/402.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/403.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/404.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/405.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/406.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/407.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/408.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/409.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/410.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/411.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/412.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/413.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/414.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/415.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/416.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/417.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/418.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/428.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/429.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/431.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/500.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/501.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/502.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/503.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/504.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/505.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/511.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Exception/HTTP/Unknown.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Hooks.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/IDNAEncoder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/IPv6.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/IRI.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Response.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Response/Headers.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Transport.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Transport/cURL.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/libraries/Requests/Transport/fsockopen.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/setup.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/utilities.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay/withdrawal/withdrawal.php" beforeDir="false" />
-    </list>
+    <list default="true" id="988017e7-42d6-4101-84ec-ec05fe647e00" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,13 +10,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/paypluscomposer/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -112,7 +58,7 @@
       <path value="$PROJECT_DIR$/../../bin/php/php7.3.5" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-13" />
     <option name="y" value="-13" />
     <option name="width" value="1940" />
@@ -124,8 +70,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,15 +77,12 @@
               <item name="paypluscomposer" type="b2602c69:ProjectViewProjectNode" />
               <item name="paypluscomposer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="paypluscomposer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="paypluscomposer" type="462c0819:PsiDirectoryNode" />
-              <item name="paypluscomposer" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -225,14 +166,15 @@
       <option name="presentableId" value="Default" />
       <updated>1594742416907</updated>
       <workItem from="1594742418412" duration="4498000" />
+      <workItem from="1594747819688" duration="255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4498000" />
+    <option name="totallyTimeSpent" value="4753000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-13" y="-13" width="1940" height="1035" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4969743" weight="0.329582" />
@@ -242,20 +184,20 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5021322" side_tool="true" weight="0.37012988" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32942432" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4969743" weight="0.329582" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4969743" visible="true" weight="0.25974026" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4969743" visible="true" weight="0.26578072" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13539445" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13617021" />
       <window_info anchor="right" id="Database" order="7" weight="0.32942432" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="SciView" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -283,10 +225,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/paypluscomposer/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+    <entry file="file://$PROJECT_DIR$/paypluscomposer/composer.json" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
