@@ -1,0 +1,16 @@
+{
+  "name": "PayPlus",
+  "type": "library",
+  "description": "PayPlus PHP Package",
+  "keywords": ["payplus","mobile money","mtn benin","moov benin", "mtn ci", "orange ci", "orange bf", "togocell", "moov togo"],
+  "homepage": "https://payplus.africa",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Donald Davy ABLO",
+      "email": "donald.ablo@payplus.africa",
+      "homepage": "https://facebook.com/ablo3dv",
+      "role": "CEO / Developer"
+    }
+  ]
+}
