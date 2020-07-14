@@ -6,4 +6,4 @@
  * Time: 18:17
  */
 
- define('_PAYMENT_PLATFORM',		'raycash'); //la plateforme pour laquelle le plugin est genere
+ define('_PAYMENT_PLATFORM',		'payplus'); //la plateforme pour laquelle le plugin est genere
