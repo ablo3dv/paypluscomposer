@@ -1,5 +1,5 @@
 {
-  "name": "PayPlus",
+  "name": "payplus",
   "type": "library",
   "description": "PayPlus PHP Package",
   "keywords": ["payplus","mobile money","mtn benin","moov benin", "mtn ci", "orange ci", "orange bf", "togocell", "moov togo"],
